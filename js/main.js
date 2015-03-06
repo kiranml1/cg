@@ -90,7 +90,7 @@ $(function(){
 	  var bresenhamCanvas = d3.select('#line-bresenhem-algo')
 	  							.attr({
 	  								"width":800,
-	  								"height":800
+	  								"height":300
 	  							}); 
 
 	  // Regular way of doing algorithm
